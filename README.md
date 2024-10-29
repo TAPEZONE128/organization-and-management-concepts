@@ -1,7 +1,7 @@
 ## Organization and Management Concepts
 Submission Compilation <br>
-1. [Case Study: Non Profit Organization](https://github.com/osiristape/omc-activities/blob/main/case-study-non-profit-org.docx)
-2. [Sample Job Hiring](https://github.com/osiristape/omc-activities/blob/main/Oracluless.docx)
+1. [Case Study: Non Profit Organization](https://github.com/TAPEZONE128/organization-and-management-concepts/blob/main/case-study-non-profit-org.docx)
+2. [Sample Job Hiring](https://github.com/TAPEZONE128/organization-and-management-concepts/blob/main/Oracluless.docx)
 ---
 
 ### Contents
